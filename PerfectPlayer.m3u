@@ -5,8 +5,6 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w1825142121_b280000_
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",TRANSTV HD
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDO",MNCTV
-http://202.80.222.171:80/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="ext" group-title="INDO",MNCTV HD
 https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",TRANS 7
@@ -21,16 +19,6 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",SCTV
 http://210.210.155.35/session/6b4cdfe4-a94e-11e9-9d80-b82a72d63267/qwr9ew/s/s103/02.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDO",SCTV 2
-http://id2.indostreamingtv.com/live/tv2/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDO",SCTV HD
-http://202.80.222.178/000001/2/ch15010918464887721048/1001.m3u8?IASHttpSessionId=OTT1120820181124231541055276&ztecid=ch15010918464887721048&bandwidth=1100904&ispcode=1&timeformat=local&channel=ch15010918464887721048&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNjUvMTAyNC5tM3U4&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com&virtualDomain=000001.live_hls.zte.com
-#EXTINF:0 tvg-id="ext" group-title="INDO",INDOSIAR 1
-http://210.210.155.35/session/4a2efd20-a94d-11e9-bbad-c81f66f89318/qwr9ew/s/s04/02.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDO",INDOSIAR 2
-https://dl.dropboxusercontent.com/s/b29l5ehcz1kq5f8/do.m3u?dl=0
-#EXTINF:0 tvg-id="ext" group-title="INDO",INDOSIAR 3
-http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="ext" group-title="INDO",ANTV HD
