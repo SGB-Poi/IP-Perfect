@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="INDO",TRANSTV 2
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",TRANSTV HD
 http://video.detik.com/transtv/smil:transtv.smil/chunklist_w1982763047_b384000_sleng.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDO",TRANS 7
-http://id2.indostreamingtv.com/live/trans7/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="INDO",TRANS 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1271606575_b280000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",TRANS 7 HD
 http://video.detik.com/trans7/smil:trans7.smil/chunklist_w1925750281_b384000_sleng.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",RCTI
@@ -14,7 +8,7 @@ https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",RCTI HD
 http://id6.indostreamingtv.com/live/rcti/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",SCTV
-http://210.210.155.35/session/6b4cdfe4-a94e-11e9-9d80-b82a72d63267/qwr9ew/s/s103/02.m3u8
+http://rr2.dens.tv/s/s03/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",ANTV
 http://202.80.222.170/000001/2/ch14061215034900095272/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:0 tvg-id="ext" group-title="INDO",ANTV HD
@@ -24,13 +18,11 @@ http://202.80.222.130/000001/2/ch14041511505498448705/index.m3u8?_res_tag_=video
 #EXTINF:0 tvg-id="ext" group-title="INDO",GLOBAL TV HD
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
 #EXTINF:0 tvg-id="NETtv.svn" group-title="INDO",NET TV
-http://id2.indostreamingtv.com/live/nettv/index.m3u8
+http://rr2.dens.tv/s/s08/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",NET TV HD
 http://buana.macan.live/nettv/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="rtvint" group-title="INDO",RTV
-http://210.210.155.35/session/2ae09192-fa18-11e9-a0e0-b82a72d63267/qwr9ew/s/s12/01.m3u8
-#EXTINF:0 tvg-id="rtvint" group-title="INDO",RTV
-http://202.80.222.170/000001/2/ch00000090990000001716/1001.m3u8?IASHttpSessionId=OTT219802019091013345820468682&ztecid=ch00000090990000001716&bandwidth=632954&ispcode=1&timeformat=local&channel=ch00000090990000001716&srcurl=aHR0cDovLzIwMi44MC4yMjIuMjA6ODAvY2RuL2lwdHYvVHZvZC8wMDEvY2hhbm5lbDIwMDAwNTcvMjU2Lm0zdTg%3D&zte_bandwidth=1001&m3u8_level=2&virtualDomain=000001.live_hls.zte.com
+http://rr2.dens.tv/s/s12/01.m3u8
 #EXTINF:0 tvg-id="ext" group-title="INDO",METRO TV HD
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w2006790992_b1492000_sleng.m3u8
 #EXTINF:0 tvg-id="Metro.pl" group-title="INDO",METRO TV
